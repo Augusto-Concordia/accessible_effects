@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.BetterVR.cpp.obj": [
+			"BetterVR.init.gen.cpp.obj",
+			"BetterVRBPLibrary.gen.cpp.obj",
+			"BetterVR.cpp.obj",
+			"BetterVRBPLibrary.cpp.obj"
+		]
+	}
+}
